@@ -1,0 +1,85 @@
+body{
+    background-color: #cbcbcb;
+}
+
+.corcinza{
+    background-color: #cbcbcb;
+}
+
+.corbranca{
+    background-color: white;
+}
+
+.larguramenor{
+    width: 350px;
+}
+
+.larguramedia{
+    width: 400px;
+    height: 250px;
+    border-radius: 20px;
+    float: left;
+    margin-left: 10px;
+    box-shadow: 3px 3px 3px rgb(105, 105, 105);
+}
+
+.larguramedia1{
+    background-color: white;
+    width: 600px;
+    height: 350px;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    box-shadow: 3px 3px 3px rgb(105, 105, 105);
+}
+
+.larguramedia2{
+    background-color: white;
+    width: 1000px;
+    height: 450px;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    box-shadow: 3px 3px 3px rgb(105, 105, 105);
+}
+
+.centrotext{
+    text-align: center;
+}
+
+.elementocentro{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.largurabotao{
+    width: 80%;
+    background-color: rgb(62, 62, 62);
+}
+
+.corbotaocinza{
+    background-color: rgb(62, 62, 62);
+}
+
+.larguraform{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.larguralogin{
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+    height: 330px;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px rgb(105, 105, 105);
+}
+
+.table-container {
+    max-height: 300px;
+    overflow-y: auto;
+}
